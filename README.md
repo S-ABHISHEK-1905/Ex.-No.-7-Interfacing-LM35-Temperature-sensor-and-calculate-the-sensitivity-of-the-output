@@ -239,8 +239,13 @@ Calculation of sensitivity
 
 ## Output screen shots :
 
+### BEFORE STIMULATION:
+![image](https://user-images.githubusercontent.com/66360846/200113363-e8032ac0-fe64-4468-8ce0-82d855efe360.png)
+
+### AFTER STIMULATION:
 ![image](https://user-images.githubusercontent.com/66360846/200112708-2157d712-8c96-4321-914c-254042f334fb.png)
 
+### LAYOUT:
 ![image](https://user-images.githubusercontent.com/66360846/200112740-9146d514-3c1d-4ef4-834b-9c6c5985edc3.png)
 
 
